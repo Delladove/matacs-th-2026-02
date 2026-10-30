@@ -1,0 +1,12 @@
+[
+  { "proposal": "A", "rank": 1, "status": "ranked", "score": 76.7,
+    "reason": "Passes all gates and has the strongest experience (14 installs), full warranty and a complete team plan with monitoring, though its price and 12-week timeline score only mid-range." },
+  { "proposal": "E", "rank": 2, "status": "ranked", "score": 66.9,
+    "reason": "Passes all gates with a full team plan (lead, crew, safety, 24-month monitoring) and the best workmanship warranty, but 8 installs and a 13-week timeline cost it points." },
+  { "proposal": "D", "rank": 3, "status": "ranked", "score": 64.6,
+    "reason": "Passes all gates with 11 installs and the lowest eligible price ($231,000), but gives no timeline (scored 0, needs review) and names no crew or monitoring plan." },
+  { "proposal": "C", "rank": 4, "status": "ranked", "score": 59.9,
+    "reason": "Passes all gates with solid experience and warranty, but a 14-week schedule, the highest price among eligible bids and no safety or monitoring plan keep it last." },
+  { "proposal": "B", "rank": null, "status": "not-eligible", "score": null,
+    "reason": "Fails the licence gate: electrical work goes to a subcontractor to be confirmed after award, so the bidder does not hold the licence." }
+]
